@@ -14,13 +14,13 @@ This library is tested automatically against the latest version of Go (currently
 ## Install v4
 
 ```console
-$ go get github.com/bold-commerce/go-shopify/v4
+$ go get github.com/thisissoon/go-shopify
 ```
 
 ## Use v4
 
 ```go
-import "github.com/bold-commerce/go-shopify/v4"
+import "github.com/thisissoon/go-shopify"
 ```
 
 This gives you access to the `goshopify` package.
